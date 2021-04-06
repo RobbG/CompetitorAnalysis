@@ -4,8 +4,8 @@ Column_Names = ['City','ListAgentFirstName','ListAgentLastName','ListOfficeName'
                 'BuyerAgentLastName','BuyerAgencyCompensation','BuyerOfficeName','OriginalListPrice',
                 'ClosePrice','DaysOnMarket','CloseDate','ListingId','PropertySubType']
 
-INPUT_FOLDER = 'D:\Competitor_Analysis\Pre_Loader\MLS.csv'
-OUTPUT_FOLDER = 'D:\Competitor_Analysis\Done\Cleaned.csv'
+INPUT_FOLDER = 'D:\Competitor_Analysis\Pre_Loader\Yucaipa_Q1.csv'
+OUTPUT_FOLDER = 'D:\Competitor_Analysis\Done\Yucaipa_Q1_Cleaned.csv'
 def main():
     df = pd.read_csv(INPUT_FOLDER, usecols=Column_Names)
     df['ListAgentFirstName'] = df['ListAgentFirstName'].str.capitalize()
