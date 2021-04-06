@@ -1,0 +1,7 @@
+.idea
+*.ini
+*.yml
+*.bin
+*.lib
+*.src
+venv
