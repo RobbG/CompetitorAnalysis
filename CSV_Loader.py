@@ -19,13 +19,5 @@ def main():
 
     df.to_csv(OUTPUT_FOLDER, index=False)
 
-
-
-
-
-
-
-
-
 if __name__ == '__main__':
     main()
