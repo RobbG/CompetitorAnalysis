@@ -1,0 +1,193 @@
+City,CloseDate,DaysOnMarket,OriginalListPrice,ListAgentFirstName,ListAgentLastName,ListOfficeName,ListingId,PropertySubType,BuyerAgentFirstName,BuyerAgentLastName,BuyerAgencyCompensation,BuyerOfficeName,ClosePrice
+Yucaipa,2021-02-12,145,230000,Steve,Newport,"Alta Realty Group Ca, Inc.Q",SW20169228,Single Family Residence,Keith,Hernandez,2.0,Realty One Group Synergy,215000
+Yucaipa,2021-03-15,0,242000,Mirka,Deniz,Active Realty,IV21028719,Single Family Residence,Daniel,Sievers,1.5,Active Realty,242000
+Yucaipa,2021-01-07,67,253000,Verushka,Polanco,Redfin,IV20192655,Single Family Residence,Jan,Hudson,2.0,Capitis Real Estate,257000
+Yucaipa,2021-02-25,3,265000,Nichole,Walker,Keller Williams Realty,EV20253037,Condominium,Hernan,Saavedra,2.0,Allison James Estates & Homes,260000
+Yucaipa,2021-01-26,91,300000,Jaime,Fernandez,Coldwell Banker Town & Country,EV20180080,Single Family Residence,Robert,Garcia,2.0,The Associates Realty Group,260000
+Yucaipa,2021-03-25,13,27700,Marvin mark,Stone,Re/Max Advantage,219054781DA,Single Family Residence,Marvin mark,Stone,3.0,Re/Max Advantage,264900
+Yucaipa,2021-02-26,38,335000,Elizabeth,Roach,Century 21 Lois Lauer Realty,EV20212608,Single Family Residence,Hadaly,Khoum,3.0,Realty Masters & Associates,288000
+Yucaipa,2021-03-30,14,269900,Roger,Martinez delgado,Re/Max Top Producers,IV21021008,Single Family Residence,Chris,Shepard,1.5,"Nationwide Capital Group, Inc",292000
+Yucaipa,2021-03-26,16,299999,Lora,Marin,"Newcastle Investments, Inc",CV21039881,Single Family Residence,Susan,Krug,2.0,Century 21 Lois Lauer Realty,300000
+Yucaipa,2021-03-19,107,295500,Benjamin,Hartnell,Yucaipa Valley Real Estate,EV20229583,Single Family Residence,Deborah,Jacobs,2.5,"Matrix Estate Group, Inc",300000
+Yucaipa,2021-02-12,3,295000,Rita,Shaw,Rita Shaw Broker & Associates,EV20236313,Single Family Residence,Joanna,Heard,2.5,Better Homes & Gardens R.E. Champions,305000
+Yucaipa,2021-03-24,77,430000,Alisa,Prox,Coldwell Banker Kivett-Teeters,EV20202005,Single Family Residence,Nicholas,Anselmo,3.0,Balloon Inc.,305000
+Yucaipa,2021-03-31,3,285000,Curtis,Doss,"Canear Real Estate, Inc",SW21006401,Single Family Residence,Ghassan,Shalabi,2.0,Re/Max Vision,307000
+Yucaipa,2021-02-05,17,309999,Joseph,Estrada,"Family Tree Realty, Inc.",EV20244429,Single Family Residence,Temo,Favila,2.0,Berkshire Hathaway Homeservices California Realty,309000
+Yucaipa,2021-02-10,4,299900,Danielle,Soto-marrufo,Century 21 Lois Lauer Realty,EV20255646,Single Family Residence,Michael,Davis,2.5,Capital & Influence,310000
+Yucaipa,2021-01-26,10,300000,Faviola,Nieves,Prosperity Real Estate & Assoc,CV20252946,Single Family Residence,Christie,Lemus,2.0,Coldwell Banker Kivett-Teeters,315000
+Yucaipa,2021-02-04,1,329000,Kevin,Watson,Re/Max Time Realty,CV20224280,Single Family Residence,Kevin,Watson,2.0,Re/Max Time Realty,315000
+Yucaipa,2021-02-19,24,312500,Serena,Janssen,Keller Williams Realty,EV20244512,Single Family Residence,Mark,Cleveland,2.5,University Realty Inc.,319000
+Yucaipa,2021-02-01,7,324900,James,Vega,Real Estate Mavens,IV20256016,Single Family Residence,Steve,Newport,2.0,"Alta Realty Group Ca, Inc.Q",328000
+Yucaipa,2021-02-26,8,334900,Guillermo,Castillo,"Guillermo Castillo, Broker",IV20254883,Single Family Residence,Ivan anthony,Solis,2.0,Central Financial And Realty,335000
+Yucaipa,2021-01-06,13,350000,Gailmarie,Bramlett,Compass,EV20237907,Single Family Residence,Corina,Gonzales,2.5,Century 21 Dream Home,335000
+Yucaipa,2021-03-29,5,320000,Thomas,Jackson,Keller Williams Realty,EV21026479,Single Family Residence,Juan,Aguirre,2.5,Remax One,340000
+Yucaipa,2021-03-29,7,329900,Justin,Perron,Keller Williams Legacy,OC21028451,Single Family Residence,Suzi,Trinidad,2.0,Trinidad Infinity Properties,340000
+Yucaipa,2021-01-11,15,333000,Ana,Silva,National Realty Group,IV20228892,Single Family Residence,Richard,Reyes,2.0,24 Hour Real Estate,340000
+Yucaipa,2021-01-29,8,339000,Jessica,Munoz,Westcoe Realtors Inc,IV20264395,Single Family Residence,Barbara,Jovin,2.0,Century 21 Showcase,340000
+Yucaipa,2021-03-25,8,335000,Kristine,Mohler,The Mohler Group,EV21027723,Condominium,Carmen,Cortez,2.5,"Bastman Properties, Inc.",342500
+Yucaipa,2021-01-13,7,357500,Serena marie,Janssen,Keller Williams Realty,EV20224031,Single Family Residence,Sophie,Pietraszek,2.0,Re/Max Advantage,345000
+Yucaipa,2021-01-11,0,368000,Elizabeth,Roach,Century 21 Lois Lauer Realty,EV20223155,Single Family Residence,Hooman,Behzad,2.5,Coldwell Banker Kivett-Teeters,350000
+Yucaipa,2021-03-26,14,349000,Robert,Coleman,Moist Realtors,EV21024329,Single Family Residence,Dianne,Speaker,2.5,Coldwell Banker Town & Country,354000
+Yucaipa,2021-02-23,8,349887,Kenneth,Patterson,Keller Williams Realty,EV20263787,Single Family Residence,Sandy,Johnston,3.0,Sandy Johnston Broker,360000
+Yucaipa,2021-01-12,7,349900,Valentina,Steele,Century 21 Award,ND20248776,Single Family Residence,Jonathan,Demuth,3.0,Realty Masters & Associates,360000
+Yucaipa,2021-03-03,4,350000,Mitchell,Weisberg,Keller Williams Realty,EV21013475,Single Family Residence,Kevin,Enriquez,2.5,Westcoe Realtors Inc,360000
+Yucaipa,2021-02-23,7,35500,Jon,Fluitt,"Patricia Hicks, Realtor",EV21007960,Single Family Residence,Andrew,Fisher,2.5,Realty Masters & Associates,360000
+Yucaipa,2021-02-22,17,359900,Steve,Trayer,Trayer Realty,EV20240614,Single Family Residence,Terry,Sanchez,2.5,Town & Country Real Estate,360000
+Yucaipa,2021-02-11,21,360000,Florina,Massbaum,"Luxre Realty, Inc.",OC20221628,Single Family Residence,Florina,Massbaum,2.0,"Luxre Realty, Inc.",360000
+Yucaipa,2021-01-26,29,362000,Javier,Rodriguez jr,Keller Williams Realty,EV20231140,Single Family Residence,Mian,Kardar,2.5,Home View Realty,361000
+Yucaipa,2021-03-26,3,349900,Gary,Sroka,Sterling Coast To Coast Inc.,OC21034689,Single Family Residence,Jeffrey,Story,2.0,All Nations Realty & Invs,363000
+Yucaipa,2021-01-15,3,359900,Joseph,Greene,Realty Masters & Associates,EV20193723,Single Family Residence,Jazmin,Sandoval,2.25,J. Elite Realtors,365000
+Yucaipa,2021-01-21,3,365000,William,Macias,Berkshire Hathaway Homeservices California Realty,EV20242819,Single Family Residence,Ruth,Medina,2.0,"Esteban Moreno, Broker",365000
+Yucaipa,2021-02-05,5,349900,Ben,Ryan,Sundae Homes,PW21004407,Single Family Residence,Scott,Gieser,2.5,Nexthome Citrus City,367000
+Yucaipa,2021-01-20,38,380000,Melissa,Gawlik,"Family Tree Realty, Inc.",EV20227567,Single Family Residence,Roxann,Rodriguez,3.0,Realty One Group West,369900
+Yucaipa,2021-01-08,8,37900,Deanna,Vela,Real Estate Masters Group,EV20246001,Single Family Residence,Martha,Roy,2.0,Keller Williams Realty,372000
+Yucaipa,2021-01-07,8,365000,Adriana,Veltre,Century 21 Lois Lauer Realty,EV20220328,Single Family Residence,Amber,Williams,2.5,The Associates Realty Group,375000
+Yucaipa,2021-01-08,3,375000,Jessica,Bouzane,Bhhs Perrie Mundy Realty Group,EV20215109,Single Family Residence,Karah,Shaw,3.0,Keller Williams Realty,375000
+Yucaipa,2021-01-27,25,405900,Elaine,Lucero,Berkshire Hathaway Homeservices California Realty,IV20239009,Single Family Residence,Maria,Garcia-cervantes,2.5,"Homesmart, Evergreen Realty",375000
+Yucaipa,2021-03-03,7,390000,Thomas,Jackson,Keller Williams Realty,EV21009628,Single Family Residence,Kathleen,Marcelino,2.5,Keller Williams Realty,375000
+Yucaipa,2021-01-05,8,365000,Karen,Seibert,Century 21 Showcase,IV20206829,Single Family Residence,Michelle,Alvarez,2.0,Bhhs Perrie Mundy Realty Group,380000
+Yucaipa,2021-01-28,11,360000,Oscar,Cervantes,Citrus Heights Properties,EV20196741,Single Family Residence,Katya,De la cruz,2.0,Westcoe Realtors Inc,380000
+Yucaipa,2021-01-08,11,394000,Michelle,Lin,Smart Realty Group,OC20233233,Single Family Residence,Leonardo,Esparza,2.0,Re/Max Impact,384000
+Yucaipa,2021-01-08,1,385000,Jill,Pesante,Oak Valley Realty,EV20241591,Single Family Residence,Carolee,Rice,2.5,Homeownership Cntrs Of America,385000
+Yucaipa,2021-02-17,58,385000,Colleen,Choisnet,Berkshire Hathway Homeservices California Realty,IV20211455,Single Family Residence,Carl,Torres,2.0,Ponce & Ponce Realty,385000
+Yucaipa,2021-01-22,54,425000,Catherine,Haney,"Haney Realty, Inc",IV20214454,Single Family Residence,Marisela,Labastida,2.0,Marisela Labastida Broker,385000
+Yucaipa,2021-03-08,4,380000,Lisa,Duarte,Legacy Group Realty,EV21020341,Single Family Residence,Maria,Seres,2.0,Re/Max Time Realty,390000
+Yucaipa,2021-03-31,5,388000,Salvador,Balver,Paragon Agency,PW21038465,Single Family Residence,Hector,Gutierrez,2.0,"Keller Williams, The Lakes",390000
+Yucaipa,2021-03-05,14,390000,Will,Quanstrom,Rita Shaw Broker & Associates,EV20261489,Single Family Residence,Lisa,Castaneda,2.5,Coldwell Banker Top Team,390000
+Yucaipa,2021-03-23,1,393000,Natalie,Harper,Real Estate Masters Group,EV20255211,Single Family Residence,Wendy,Dickinson,2.5,Real Estate Masters Group,393000
+Yucaipa,2021-02-03,0,395000,Jonghyeok,Choi,"Dream Realty Asset Mgt, Inc.",21687400,Single Family Residence,Jonghyeok,Choi,1.0,"Dream Realty Asset Mgt, Inc.",395000
+Yucaipa,2021-01-13,17,410000,Danielle,Soto-marrufo,Century 21 Lois Lauer Realty,EV20238959,Single Family Residence,Danika,Lee,2.5,Realty Masters & Associates,399900
+Yucaipa,2021-01-22,2,374900,Brandon,Mihld,Re/Max Advantage,EV20236568,Single Family Residence,Jessica,Hawkins,2.5,Amanica Real Estate & Property,405000
+Yucaipa,2021-03-19,3,385000,Jaime,Rodriguez,Big Blue House Real Estate,DW21008155,Single Family Residence,Kathleen,Marcelino,2.5,Keller Williams Realty,405000
+Yucaipa,2021-03-26,11,388900,Betty,Roberts,Windermere R.E. Tower Prop.,IV21020630,Single Family Residence,Betty,Roberts,2.0,Windermere R.E. Tower Prop.,405000
+Yucaipa,2021-02-09,6,399000,Gary,Dittmar,Coldwell Banker Kivett-Teeters,EV20241788,Single Family Residence,Tammy,Safi,2.5,Century 21 Primetime Realtors,405000
+Yucaipa,2021-02-12,4,399900,Annette,Hoefer,Re/Max Advantage,EV21007970,Single Family Residence,Bobby,Duncan,2.5,Best Properties,405000
+Yucaipa,2021-01-11,8,414900,Alison,Crawford,Berkshire Hathaway Homeservices California Realty,EV20234114,Single Family Residence,Eric,Raygoza,2.0,Simply Real Estate,407900
+Yucaipa,2021-03-25,41,405000,"Team of art,",Terry and kara ro...,Windermere Homes & Estates,219056864DA,Single Family Residence,Georgette,Whitt,2.5,California Dream Real Estate,412500
+Yucaipa,2021-01-21,2,389000,Leigh,Apodaca,Compass,OC20250274,Condominium,Kristin,Balalis,2.5,Century 21 Peak,414000
+Yucaipa,2021-02-05,8,405000,Chris,Crow,Real Estate Ebroker Inc.,EV21002110,Single Family Residence,Heidi,Bonham,2.0,Oak Valley Realty,415000
+Yucaipa,2021-02-12,7,399000,Bill,Bailey,Bill Bailey Broker,PW21002921,Single Family Residence,Danielle,Soto-marrufo,2.0,Century 21 Lois Lauer Realty,415000
+Yucaipa,2021-02-02,7,400000,Annette,Laterreur,Realty Masters & Associates,CV20258124,Single Family Residence,Christine,Brantingham,2.0,Re/Max Vision,418000
+Yucaipa,2021-02-05,6,399900,Michael,Espiritu,Redfin,EV20258540,Single Family Residence,Anthony,Esquivel,2.0,Realty Masters & Associates,420000
+Yucaipa,2021-01-07,8,410000,Christopher,Fox,Mainstreet Realtors,CV20242765,Single Family Residence,Christopher,Fox,2.0,Mainstreet Realtors,420000
+Yucaipa,2021-01-06,6,412500,Terri,Barrett,"Homesmart, Evergreen Realty",CV20242799,Single Family Residence,Audree,Garaza,2.25,Keller Williams Realty,420000
+Yucaipa,2021-02-23,5,420000,Adam,Hart,Re/Max Advantage,EV21006712,Single Family Residence,Percy,Estrada,2.5,Ameripride Properties,420000
+Yucaipa,2021-01-21,20,429900,Toni,Holloway,Century 21 Lois Lauer Realty,EV20226287,Single Family Residence,Susana,Franco,2.5,Coldwell Banker Assoc Brkr/Men,420000
+Yucaipa,2021-01-26,20,420000,Suzan,Bromley,Century 21 Lois Lauer Realty,EV20246360,Single Family Residence,Hazel,Walker,2.5,Keller Williams Realty,423000
+Yucaipa,2021-03-15,3,407000,Jessica,La voise,Realty Masters & Associates,CV21007731,Single Family Residence,Albert,De la cruz,2.5,"Casamerica Realtors, Inc.",425000
+Yucaipa,2021-02-19,27,436900,Justin,Tye,Active Realty,IG20262606,Single Family Residence,Alma,Schwartz,2.5,Real Estate Masters Group,429000
+Yucaipa,2021-02-03,4,409900,Jim,Cavanaugh,Century 21 Showcase,EV20259094,Single Family Residence,Walter ron,Kemper,2.0,"Walter Ron Kemper, Broker",430000
+Yucaipa,2021-03-09,21,429000,Susan,Krug,Century 21 Lois Lauer Realty,EV21007664,Single Family Residence,Marta,Liceaga,3.0,Re/Max Champions,430000
+Yucaipa,2021-03-26,11,429900,Betty,Giles,Century 21 Lois Lauer Realty,EV21021252,Single Family Residence,Ralph,Schiavone,3.0,"Hls Group, Inc.",430000
+Yucaipa,2021-01-12,2,429900,Brandon,Mihld,Re/Max Advantage,EV20242898,Single Family Residence,Rodney,Phenice,2.0,Signature Real Estate Group,430000
+Yucaipa,2021-03-25,0,430000,Lisa,Duarte,Legacy Group Realty,EV21035927,Single Family Residence,James,Sallinger,2.0,Srg Properties,430000
+Yucaipa,2021-01-28,5,430000,Scott,Tucker,Providence Realty,IV20174564,Single Family Residence,Kristin,Hamilton,2.0,"Sun Lakes Realty, Inc",430000
+Yucaipa,2021-02-05,4,429500,Gary,Lee,Cornerstone Real Estate Group,IV21000211,Single Family Residence,Alba,Pena,2.25,Coldwell Banker Realty,432000
+Yucaipa,2021-02-02,9,424000,Tricia,Wirth gregory,Coldwell Banker Kivett-Teeters,EV21005614,Single Family Residence,Cerise,Jennings-skeen,3.0,Berkshire Hathaway Homeservices California Realty,434000
+Yucaipa,2021-03-15,7,415000,Barbara,Jovin,Century 21 Showcase,IV21033532,Single Family Residence,Tina,Garner,2.0,"Family Tree Realty, Inc.",435000
+Yucaipa,2021-02-23,4,429900,Jim,Cavanaugh,Century 21 Showcase,EV21011675,Single Family Residence,Krystle,Roth,2.0,Keller Williams Realty,435000
+Yucaipa,2021-03-31,0,445000,Tyler,Newsom,Century 21 Lois Lauer Realty,EV21043959,Single Family Residence,Tyler,Newsom,2.0,Century 21 Lois Lauer Realty,437500
+Yucaipa,2021-02-16,0,429900,Terrie,Andrews,Bhhs Perrie Mundy Realty Group,EV20262762,Single Family Residence,Colleen,Choisnet,2.0,Berkshire Hathaway Homeservice California Realty,439000
+Yucaipa,2021-03-25,1,439000,Kathryn,Campbell,E. Wayne Simmons Inc,EV21020520,Single Family Residence,Tammy,Rubelius,2.5,Coldwell Banker Kivett-Teeters,440000
+Yucaipa,2021-03-23,3,424000,Lavonne,Webb,Better Homes & Gardens R.E. Champions,EV21025308,Single Family Residence,Jorge,Sanchez,2.5,Ega Homes,442500
+Yucaipa,2021-01-13,5,424900,Conrad,Rios,Future Home Realty,MB20247387,Single Family Residence,Megann,Centeno,2.0,Realty Masters & Associates,445000
+Yucaipa,2021-02-19,85,469900,Marti,Button,Coldwell Banker Kivett-Teeters,EV20216117,Single Family Residence,John,Moran,2.5,"First Team Real Estate, Tem",447000
+Yucaipa,2021-01-20,3,439000,Teri jennel,Oldendorf,Coldwell Banker Kivett-Teeters,EV20254340,Single Family Residence,Crystal,Hoggard,2.5,Premier Realty Group Services,450000
+Yucaipa,2021-02-11,5,445000,Monique,Nickels,Coldwell Banker Kivett-Teeters,EV21001937,Single Family Residence,Veronica,Ramos,2.5,Keller Williams Realty,450000
+Yucaipa,2021-02-11,104,459999,Sarah,Hayworth,Better Homes & Gardens R.E. Champions,EV20201585,Single Family Residence,Socorro,Maldonado,2.5,Kpm Investment Enterprises Inc,450000
+Yucaipa,2021-03-31,9,450000,Maria,Limas ruiz,Ponce & Ponce Realty,EV21033518,Single Family Residence,Jesus,Espinoza,2.5,Ponce & Ponce Realty,455000
+Yucaipa,2021-03-26,9,459000,Susan,Krug,Century 21 Lois Lauer Realty,EV21028586,Single Family Residence,Vicente,Ruelas,3.0,Realty Masters & Associates,459000
+Yucaipa,2021-02-16,9,449999,Gary,Zendejas,Realty World Premier,EV21004775,Manufactured On Land,Elsa,Barron,2.5,The Associates Realty Group,465000
+Yucaipa,2021-03-11,2,464900,Dianna,Alwerth,Coldwell Banker Kivett-Teeters,EV20250434,Single Family Residence,Krystle,Roth,3.0,Keller Williams Realty,465000
+Yucaipa,2021-02-10,6,475000,Brian,Brassil,Keller Williams Realty,OC20259726,Single Family Residence,Rosemary,Gilbert,2.5,Re/Max Advantage,465000
+Yucaipa,2021-03-01,2,468900,Kristin,Staton,Century 21 Lois Lauer Realty,EV21005517,Single Family Residence,Robert,Smith,2.5,Realty Masters & Associates,470000
+Yucaipa,2021-03-08,3,475000,Kenneth,Siegner,Keyclub Realty,EV21002400,Single Family Residence,Tim,Veliquette,2.0,Coldwell Banker Kivett-Teeters,470000
+Yucaipa,2021-03-02,13,457000,Colleen,Choisnet,Berkshire Hathway Homeservices California Realty,IV21001964,Single Family Residence,Gabriel,Parker,2.0,Mountain Air  Real Estate-Yuc,475000
+Yucaipa,2021-03-04,1,449888,Lori,Alvarez,Kw College Park,CV21009094,Single Family Residence,Debra,Karr,2.5,Century 21 Lois Lauer Realty,479588
+Yucaipa,2021-02-16,2,462000,Karla,Degonia,Century 21 Lois Lauer Realty,EV21015247,Single Family Residence,Randalynn,Rice,2.5,Better Homes & Gardens R.E. Champions,480000
+Yucaipa,2021-01-28,2,465000,Rita,Shaw,Rita Shaw Broker & Associates,EV20248526,Single Family Residence,Deanna,Vela,2.5,Real Estate Masters Group,480000
+Yucaipa,2021-01-08,8,484900,Ronnie,Duran,Golden Eagle Properties,TR20231278,Single Family Residence,Emmanuel,Beltran,2.0,First Team Real Estate,484900
+Yucaipa,2021-03-05,57,479999,Jorge,Sanchez,Ega Homes,IG20241700,Single Family Residence,Katie,Fetrow,2.0,Power Of 2 Realty,485000
+Yucaipa,2021-03-11,2,485000,Lori,Madsen,Re/Max Advantage,EV21014101,Single Family Residence,Toni,Muehler,2.5,Century 21 Lois Lauer Realty,485000
+Yucaipa,2021-02-05,35,485000,Paul,Migliozzi,Century 21 Showcase,IV20231876,Single Family Residence,Joseph,Mariles,2.0,Re/Max Champions,488000
+Yucaipa,2021-02-12,104,525000,Brittany,Varley,Remax One,IG20216932,Single Family Residence,Steven,Burton,3.0,American Home Real Estate,489000
+Yucaipa,2021-03-04,54,490000,John,Vega,Berkshire Hathaway Homeservices California Realty,IV20247895,Condominium,Maribelle,Orozco,2.5,"Maribelle Orozco, Broker",489911
+Yucaipa,2021-01-19,16,480000,Laurinda,Brazie,Meridian Capital Real Estate,EV20244501,Single Family Residence,Brooks,Bailey,2.5,Exp Realty Of California Inc.,490000
+Yucaipa,2021-02-24,38,485000,Dianna,Alwerth,Coldwell Banker Kivett-Teeters,EV20255384,Single Family Residence,Lavonne,Webb,3.0,Better Homes & Gardens R.E. Champions,500000
+Yucaipa,2021-03-24,60,565000,Cynthia,Kraemer,Realty Professionals Of The Mo,20671406,,Casey,Overholt,3.0,Allied Pacific Property Mgmt.,515000
+Yucaipa,2021-03-12,26,515000,Jerry,Casillas,Re/Max Time Realty,CV21003606,Single Family Residence,Catherine,Saravia,2.25,Heritage Real Estate,525000
+Yucaipa,2021-01-11,0,525000,Bud,Reynolds,Coldwell Banker Kivett-Teeters,EV20246626,Single Family Residence,Bud,Reynolds,3.0,Coldwell Banker Kivett-Teeters,525000
+Yucaipa,2021-01-13,15,525000,Jared,Jones,Power Of 2 Realty,IV20219212,Single Family Residence,Eric,Arnel,2.0,The Associates Realty Group,535000
+Yucaipa,2021-02-11,36,529000,Patrick,Campbell,Realty Masters & Associates,EV20239582,Single Family Residence,Michelle,Delawder,2.0,Best Properties,535000
+Yucaipa,2021-01-05,9,525000,Cristina,Mcpherson,Devor/North End Realty,EV20237461,Single Family Residence,Eva,Grijalva,2.5,Ambassador Real Estate & Financial,535000
+Yucaipa,2021-01-25,5,539000,Kim,Turley,Better Homes & Gardens R.E. Champions,EV20256514,Single Family Residence,Roxann,Rodriguez,2.5,Realty One Group West,539000
+Yucaipa,2021-01-11,23,549000,Karen,Myatt,Century 21 Masters,SW20225350,Single Family Residence,Rhonda,Razani,2.5,"West Coast Realty Associates, Inc.",540000
+Yucaipa,2021-02-18,1,575000,Marisela,Labastida,Marisela Labastida Broker,IV21010600,Single Family Residence,Heather,Burton,2.5,Century 21 Lois Lauer Realty,540000
+Yucaipa,2021-03-31,31,538000,Kenny,Park,Paradise Realty,RS21015205,Single Family Residence,Mary,Abatecola,2.0,Coldwell Banker Town & Country,541500
+Yucaipa,2021-03-25,4,529900,Kyung,Cho,Redfin,IV21029709,Single Family Residence,Martin,Goldsmith,2.0,Keller Williams Socal,545000
+Yucaipa,2021-02-10,12,539000,Hugo,Chinchay,Your Home Sold Guaranteed Real,EV20264014,Single Family Residence,Donna,Hernandez,1.0,United Real Estate Los Angeles,545000
+Yucaipa,2021-03-09,7,539900,Valentina,Steele,Century 21 Award,ND21016414,Single Family Residence,Joaquin,Recio,2.5,Re/Max Top Producers,545000
+Yucaipa,2021-01-25,86,584900,Lynn,Barnard,Premier Realty Services,OC20199226,Single Family Residence,Michael,Valerio,2.5,Homesmart Professionals,545000
+Yucaipa,2021-01-25,60,774900,Brandon,Mihld,Re/Max Advantage,EV20213759,Single Family Residence,Sandro,Ustrelll,2.5,Foothill City Realty,549000
+Yucaipa,2021-01-15,134,590000,Jessica,Warren,Real Estate Masters Group,EV20158845,Single Family Residence,Jessica,Warren,2.5,Real Estate Masters Group,550000
+Yucaipa,2021-02-16,6,550000,Scott,Tucker,Providence Realty,IV20262259,Single Family Residence,April,Mann,3.0,Century 21 Lois Lauer Realty,555000
+Yucaipa,2021-01-20,18,574900,Brandon,Mihld,Re/Max Advantage,EV20242900,Single Family Residence,Nicholas,Ortiz,2.0,Keller Williams Realty,555000
+Yucaipa,2021-03-12,6,550000,Dave,Corey,Bhhs Perrie Mundy Realty Group,EV21019936,Single Family Residence,Marjorie,Lewis,2.5,Re/Max Advantage,560000
+Yucaipa,2021-03-12,60,560000,Brandon,Yager,Yager Realty Of California,FR20252296,Single Family Residence,Lavonne,Webb,2.0,Better Homes & Gardens R.E. Champions,560000
+Yucaipa,2021-02-10,23,385000,Hooman,Behzad,Coldwell Banker Kivett-Teeters,EV20258095,Single Family Residence,Benjamin,Hartnell,2.5,Yucaipa Valley Real Estate,560000
+Yucaipa,2021-03-16,24,634900,Ramez,Daoud,Golden Eagle Properties,IV21005048,Single Family Residence,Miguel,Amaya,2.5,Exp Realty Of California Inc.,570000
+Yucaipa,2021-03-10,42,549000,Melissa,Lerma,Keller Williams Realty,219055904DA,Single Family Residence,Jennifer,Garcia,2.5,"Mainstreet, Realtors",572000
+Yucaipa,2021-03-08,3,559000,Tim,Veliquette,Coldwell Banker Kivett-Teeters,EV21004347,Single Family Residence,Tim,Veliquette,2.5,Coldwell Banker Kivett-Teeters,575000
+Yucaipa,2021-03-01,7,560000,Ryan,Mckee,Realty Masters & Associates,IV21008754,Single Family Residence,Patrick,Hamilton,2.5,Century 21 Showcase,575000
+Yucaipa,2021-01-28,113,589000,Judith,Sailors,Better Homes & Gardens R.E. Champions,EV20174263,Single Family Residence,Judy,Teng,2.0,Realty One Group Trilogy,578000
+Yucaipa,2021-02-19,44,624900,David,Cortese,Century 21 Lois Lauer Realty,EV20241578,Single Family Residence,Brandon,Mihld,2.25,Re/Max Advantage,580000
+Yucaipa,2021-03-31,5,570000,Eileen,Didier,Century 21 Lois Lauer Realty,EV21037680,Single Family Residence,Emily,Kreger,2.5,Century 21 Lois Lauer Realty,580500
+Yucaipa,2021-02-19,5,569900,Michael,Espiritu,Redfin,EV21008290,Single Family Residence,Christopher,Cochran,2.0,Cochran Real Estate Professionals Inc,585000
+Yucaipa,2021-03-02,86,600000,Donald,Mowery,Exp Realty Of California Inc,CV20183896,Single Family Residence,Ryan,Mckee,2.0,Realty Masters & Associates,587500
+Yucaipa,2021-03-08,3,615000,Joanna,Heard,Better Homes & Gardens R.E. Champions,EV21006338,Single Family Residence,Maria,Sanchez,2.5,"Esteban Moreno, Broker",594000
+Yucaipa,2021-03-17,94,649000,Joe,Ontiveros,Legacy Group Realty,EV20210091,Single Family Residence,Allison,Ferguson,2.5,Re/Max Advantage,597500
+Yucaipa,2021-01-11,78,675000,Deanna,Vela,Real Estate Masters Group,EV20194498,Single Family Residence,Nichole,Walker,2.0,Keller Williams Realty,600000
+Yucaipa,2021-03-24,0,599999,Alisa,Prox,Coldwell Banker Kivett-Teeters,EV21027732,Single Family Residence,Gary,Dittmar,3.0,Coldwell Banker Kivett-Teeters,600000
+Yucaipa,2021-01-29,62,625000,Joseph,Estrada,"Family Tree Realty, Inc.",EV20171781,Single Family Residence,Oscar,Cervantes,2.0,Citrus Heights Properties,600000
+Yucaipa,2021-02-16,32,615000,Brooks,Bailey,Exp Realty Of California Inc.,EV20242592,Single Family Residence,Justin,Tye,2.5,Active Realty,608335
+Yucaipa,2021-02-16,3,599000,Randi,Hawkins,Better Homes & Gardens R.E. Champions,EV21001934,Single Family Residence,Maria,Leon,2.0,Excellence Re Real Estate,617550
+Yucaipa,2021-02-02,1,619999,Andrea,Resler,Barnett Real Estate,EV21000225,Single Family Residence,Tyler,Newsom,2.5,Century 21 Lois Lauer Realty,619999
+Yucaipa,2021-02-23,66,645000,Lori,Agon,Coldwell Banker Kivett-Teeters,EV20234812,Single Family Residence,Francisco,Tapia,3.0,Kw Temecula,620000
+Yucaipa,2021-03-04,8,639000,Sherry,Anderegg,Coldwell Banker Kivett-Teeters,EV21009419,Single Family Residence,Amy,Broten,2.5,Coldwell Banker Kivett-Teeters,620000
+Yucaipa,2021-01-07,3,610000,Jessica,Larkey,Re/Max Top Producers,CV20250127,Single Family Residence,Terri,Barrett,2.0,"Homesmart, Evergreen Realty",625000
+Yucaipa,2021-01-19,10,640000,Susan,Krug,Century 21 Lois Lauer Realty,EV20218024,Single Family Residence,Serena,Janssen,3.0,Keller Williams Realty,635000
+Yucaipa,2021-01-07,37,660000,Jessica,Warren,Real Estate Masters Group,EV20220856,Single Family Residence,Christopher,Fox,2.5,Mainstreet Realtors,635000
+Yucaipa,2021-02-12,188,659000,Raudel,Diaz,National Realty Group,CV20129088,Single Family Residence,Benjamin,Hartnell,2.0,Hartnell Real Estate,640000
+Yucaipa,2021-02-25,4,619000,Lavonne,Webb,Better Homes & Gardens R.E. Champions,EV21012498,Single Family Residence,Katherine,Coronado,2.5,Corcoran Global Living,645000
+Yucaipa,2021-03-18,6,625000,David,Fenn,"Fenn Real Estate, Inc.",EV21029394,Single Family Residence,Candice,Kelley,2.5,Connect Realty,653000
+Yucaipa,2021-01-29,16,689999,Brooks,Bailey,Exp Realty Of California Inc.,EV20249025,Single Family Residence,Alex,Fusco,2.5,Saddleback Realty,662000
+Yucaipa,2021-03-05,23,664900,Caroline,Gim,Expert Real Estate,PW21012911,Single Family Residence,Gina,L'acqua-catalano,2.5,First Team Real Estate,664900
+Yucaipa,2021-03-01,13,675000,Edith,Israel,Coldwell Banker Realty,PW21011958,Single Family Residence,Hazel,Walker,2.5,Keller Williams Realty,675000
+Yucaipa,2021-01-05,478,749900,Julia,Rogers,University Realty Inc.,EV19183508,Single Family Residence,Victoria,Waldorf,2.5,"Sync Brokerage, Inc.",675000
+Yucaipa,2021-03-03,10,672500,Dawn,Arps,Century 21 Lois Lauer Realty,EV21004452,Single Family Residence,Serena,Janssen,2.0,Keller Williams Realty,686500
+Yucaipa,2021-03-29,11,685000,Tricia,Wirth gregory,Coldwell Banker Kivett-Teeters,EV21011739,Single Family Residence,Jeff,Miller,3.0,Homesmart Professionals,690000
+Yucaipa,2021-01-15,1,699999,Lori,Madsen,Re/Max Advantage,EV20230284,Single Family Residence,Christina,Burke,2.5,Re/Max Advantage,690000
+Yucaipa,2021-01-20,9,749000,Marjorie,Gillman,Moist Realtors,EV20241546,Single Family Residence,Teri jennel,Oldendorf,2.5,Coldwell Banker Kivett-Teeters,695000
+Yucaipa,2021-01-26,2,699999,Adriana,Veltre,Century 21 Lois Lauer Realty,EV20245336,Single Family Residence,Dawna,Thibodeau,2.5,Harcourts Prime Properties,699999
+Yucaipa,2021-03-11,96,699999,Michelle,Brittingham,Better Homes & Gardens R.E. Champions,EV20205603,Single Family Residence,Tim,Adams,2.5,Mysmartlease.Com,699999
+Yucaipa,2021-02-19,7,650000,Candice,Kelley,Connect Realty,EV21008483,Single Family Residence,Edith,Martinez,2.5,"Em Real Estate, Inc.",701000
+Yucaipa,2021-03-16,4,705000,Betty,Giles,Century 21 Lois Lauer Realty,EV21011450,Single Family Residence,Karla,Degonia,2.0,Century 21 Lois Lauer Realty,705000
+Yucaipa,2021-01-14,72,699999,Joe,Marroquin,Re/Max Advantage,EV20189431,Single Family Residence,Michelle,Reifel,2.5,Re/Max Advantage,707000
+Yucaipa,2021-03-15,219,740000,Vicky,Coddington,Z Real Estate,IV20075057,Single Family Residence,Kelly,Preuss,2.0,Caldwell & Taylor Realty,710000
+Yucaipa,2021-02-17,66,739900,Eileen,Didier,Century 21 Lois Lauer Realty,EV20229029,Single Family Residence,Liam,Muirhead,2.5,Reviron Realty,720000
+Yucaipa,2021-03-11,9,730000,Robert,Patterson,Keller Williams Victor Valley,EV21006573,Single Family Residence,Christine,Anderson,2.0,"Realty Masters & Assoc., Inc.",720000
+Yucaipa,2021-03-30,23,759000,Wendy,Dickinson,Real Estate Masters Group,EV21001871,Single Family Residence,Carlos,Padilla-martinez,2.0,Corcoran Global Living,725000
+Yucaipa,2021-03-09,6,760000,Aron,Kwong,"Aron Kwong, Broker",CV21011315,Single Family Residence,Leah,Lord,2.0,Era Donahoe Realty,730000
+Yucaipa,2021-01-26,25,795000,Susan,Krug,Century 21 Lois Lauer Realty,EV20241034,Single Family Residence,Kim,Turley,2.75,Better Homes & Gardens R.E. Champions,740000
+Yucaipa,2021-02-26,25,759000,Susie,Southern,Moist Realtors,EV20260420,Single Family Residence,Randi,Hawkins,2.0,Better Homes & Gardens R.E. Champions,749000
+Yucaipa,2021-03-10,172,775000,Niema,Thomas,Redfin,IV20143241,Single Family Residence,Lavonne,Webb,2.0,Better Homes & Gardens R.E. Champions,763900
+Yucaipa,2021-02-01,103,839000,Maryhelen,Merrett,The Real Estate Group,EV20179488,Single Family Residence,Monte,Snyder,2.5,Ken Scott Real Estate,774900
+Yucaipa,2021-03-03,21,799000,Janice,Greene,Berkshire Hathaway Homeservices California Realty,IV20256392,Single Family Residence,Nicholaus,Ondatje,2.0,Mainstreet Realtors,775000
+Yucaipa,2021-03-04,78,799999,Michelle,Brittingham,Better Homes & Gardens R.E. Champions,EV20230150,Single Family Residence,Dawn,Arps,2.5,Century 21 Lois Lauer Realty,795000
+Yucaipa,2021-01-14,38,831000,Jonathan,Martin,Meridian Capital Real Estate,IV20224624,Single Family Residence,Nina,Alexander,2.0,Keller Williams Realty Calabasas,800000
+Yucaipa,2021-03-01,67,879000,Lavonne,Webb,Better Homes & Gardens R.E. Champions,EV20240518,Single Family Residence,Marjorie,Lewis,2.5,Re/Max Advantage,825000
+Yucaipa,2021-02-09,12,860000,John,Menke,Coldwell Banker Town & Country,IV20260136,Single Family Residence,Rosie,Zuno,2.0,Berkshire Hathaway Homeservice,850000
+Yucaipa,2021-03-08,4,874900,Carrie,Munn,Century 21 Lois Lauer Realty,EV21018649,Single Family Residence,Georgette,Whitt,2.0,California Dream Real Estate,874000
+Yucaipa,2021-03-31,0,949000,Wendy,Dickinson,Real Estate Masters Group,EV20249392,Single Family Residence,Wendy,Dickinson,2.0,Real Estate Masters Group,900000
+Yucaipa,2021-02-26,10,925000,Jeff,Evens,Vintage Hills Realty,SW20259178,Single Family Residence,Padmini,Kelly-walsh,2.5,Interstate Realty,935000
+Yucaipa,2021-03-16,8,980000,Lavonne,Webb,Better Homes & Gardens R.E. Champions,EV21036011,Single Family Residence,Lavonne,Webb,2.5,Better Homes & Gardens R.E. Champions,950000
