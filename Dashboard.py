@@ -21,35 +21,53 @@ def main():
     buyer_agent_ave_percentage = df['BuyerAgencyCompensation'].mean().round(decimals=0)
     total_buyer_agent_commissions = '$ {:,.2f}'.format(df['Buyer Agent Commission'].sum().round(decimals=0))
 
-    st.sidebar.write('Sidebar area.')
 
 
-    header = st.beta_container()
-    body = st.beta_container()
-    with header:
-        st.title('Competitive Analysis Quarter Based')
+    st.sidebar.title('Make your select below')
+    st.sidebar.selectbox(
+        "Select Quarter",
+        ("QTR-1", "QTR-2", "QTR-3", "QTR-4")
+    )
+    st.sidebar.selectbox(
+        "Select City",
+        ("Yucaipa", "Redlands")
+    )
 
-        with body:
-            fig = go.Figure(go.Indicator(
-                mode="number",
-                value=transactions,
-                title={
-                    "text": "Total Transactions<br><span style='font-size:0.8em;color:gray'></span>"},
-                domain={'x': [0, 1], 'y': [0, 1]}
-            ))
-            fig.update_layout(paper_bgcolor="lightblue")
-            st.write(fig)
-            #st.write('Total Transactions For 1st QTR', transactions)
-            st.write('Avenue Days On Market', int(ave_days_on_market))
-            st.write('Total Dollars Closed', total_dollars_closed)
-            st.write('Max Days on Market', max_days_on_market)
-            st.write('Min Days on Market', min_days_on_market)
-            st.write('Ave Days on Market', int(ave_days_on_market))
-            st.write('Ave Closed Sales Price', ave_closed_sales_price)
-            st.write('Ave Buyer Agent Commission', buyer_agent_ave_percentage)
-            st.write('Total Buyer Agent Commission', total_buyer_agent_commissions)
-            st.write('Broker Listings', broker_listings)
-            st.write('Broker Total Listings', broker_listings_totals )
+    st.title("Competitive Analysis")
+    st.subheader("Quarterly Based")
+    col1, col2 = st.beta_columns(2)
+    with col1:
+        fig = go.Figure(go.Indicator(
+mode="number",
+value=transactions,
+title={
+"text": "Total Transactions<br><span style='font-size:0.8em;color:black'></span>"},
+domain={'x': [0, 1], 'y': [0, 1]}
+))
+    fig.update_layout(paper_bgcolor="lightblue")
+    st.write(fig)
+
+    with col2:
+        fig1 = go.Figure(go.Indicator(
+            mode="number",
+            value=transactions,
+            title={
+                "text": "Total Transactions<br><span style='font-size:0.8em;color:pink'></span>"},
+            domain={'x': [0, 1], 'y': [0, 1]}
+        ))
+    fig1.update_layout(paper_bgcolor="lightblue")
+    st.write(fig1)
+
+
+    st.write('Total Dollars Closed', total_dollars_closed)
+    st.write('Max Days on Market', max_days_on_market)
+    st.write('Min Days on Market', min_days_on_market)
+    st.write('Ave Days on Market', int(ave_days_on_market))
+    st.write('Ave Closed Sales Price', ave_closed_sales_price)
+    st.write('Ave Buyer Agent Commission', buyer_agent_ave_percentage)
+    st.write('Total Buyer Agent Commission', total_buyer_agent_commissions)
+    st.write('Broker Listings', broker_listings)
+    st.write('Broker Total Listings', broker_listings_totals )
 
 
 
